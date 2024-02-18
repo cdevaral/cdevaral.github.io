@@ -1,0 +1,12 @@
+---
+format: html
+editor: visual
+---
+
+## Chandra Sekhar Devaralame
+
+Hello Everyone , My name is Chandra Sekhar Devarala.
+
+In 2023, I earned a Bachelor's degree in Information Science Engineering from Presidency University, Bangalore, India. Currently, I am pursuing my master's degree in Data Analytics Engineering from George Mason University.
+
+Since my childhood, a deep-seated passion for financial markets and derivatives trading has fueled my academic journey, This strong intrest has motivated me to choose the path of Data Analytics Engineering ,I am looking forward to excel my skills in machine learning and algorithms, aiming to leverage them to predict future asset prices based on historical data. My journey in Data Analytics is not just about acquiring skills but a pursuit of turning data into actionable insights for informed decision-making in the dynamic world of finance.

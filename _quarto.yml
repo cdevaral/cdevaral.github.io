@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "About"
+  navbar: 
+    left:
+      - dummy_page_1.qmd
+      - dummy_page_2.qmd
+
+theme:
+    light: flatly
+    dark: darkly
