@@ -3,7 +3,7 @@ format: html
 editor: visual
 ---
 
-## Chandra Sekhar Devaralame
+## Chandra Sekhar Devarala
 
 Hello Everyone , My name is Chandra Sekhar Devarala.
 
